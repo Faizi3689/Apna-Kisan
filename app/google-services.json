@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463641199571",
+    "project_id": "apna-kissan1",
+    "storage_bucket": "apna-kissan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463641199571:android:0de6665c8144e666462526",
+        "android_client_info": {
+          "package_name": "com.example.apnakissan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RESjhnR9OBehUEPm9-m9jaeDGAcJiAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

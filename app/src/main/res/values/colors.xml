@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#65EB77</color>
+    <color name="greenn">#A7F0B1</color>
+    <color name="solid">#31FF4D</color>
+    <color name="mati">#858585</color>
+
+    <color name="colorPrimary">#65EB77</color> <!-- Replace with your color -->
+    <color name="colorPrimaryDark">#31FF4D</color> <!-- Status bar color (if needed) -->
+<!--    <color name="colorAccent">#03DAC5</color> &lt;!&ndash; Accent color for UI elements &ndash;&gt;-->
+</resources>
